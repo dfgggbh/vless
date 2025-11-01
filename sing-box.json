@@ -64,13 +64,13 @@
           "port": 8854,
           "public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
           "reserved": [
-            113,
-            128,
-            40
+            30,
+            219,
+            187
           ]
         }
       ],
-      "private_key": "yKav0MHvQrHFEZ602TWrE8ryochB9u6+2dkoJgP+hlo=",
+      "private_key": "AJvYv4HtRTfSRq5QYvDGjySovQqI1iqKodTZnM5pu0s=",
       "tag": "\u26aa\ufe0fTehran",
       "type": "wireguard",
       "workers": 2
@@ -93,13 +93,13 @@
           "port": 4233,
           "public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
           "reserved": [
-            68,
-            205,
-            129
+            222,
+            216,
+            130
           ]
         }
       ],
-      "private_key": "wA+iEW459HFkrPaRhaEww7fASLDltynyR3e0Xn6YPUg=",
+      "private_key": "ECm2SHBww95mcnRxiIh8Qv/UtvSnYsyxO0zFTe7p7lY=",
       "tag": "\ud83d\udfe1Berlin",
       "type": "wireguard",
       "workers": 2
